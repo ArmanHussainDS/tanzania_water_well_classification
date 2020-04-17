@@ -2,9 +2,17 @@ https://water.org/our-impact/tanzania/ - Basic facts about access to water in Ta
 https://www.wateraid.org/where-we-work/tanzania - More facts
 
 What are we doing?
- - We are working on behalf of Tanzania's Ministry of Water to help predict which water pumps across the country are functional, completely broken or in need of some sort of maintenance. 
- - We are also collaborating with Taarifa, an open-source web API that offers a lot of data on this particular problem. 
- - Our goal is to best predict issues with water pumps to promote greater access to clean water across Tanzania, an issue plaguing much of the country. 
- - Our idea of success would be to achieve a classification accuracy of greater than 80% and to be able to give the Tanzanian Ministry of Water some key insights into which factors put a strain on pumps and how to best avoid them breaking down. We would like to place emphasis on correctly classifying pumps in need of repair as this is significantly cheaper than installing new pumps altogether.
  
+ - We are working on behalf of Tanzania's Ministry of Water to help predict which water pumps across the country are functional, completely broken or in need of some sort of maintenance. 
+ 
+ - We are also collaborating with Taarifa, an open-source web API that offers a lot of data on this particular problem. 
+ 
+ - Our goal is to best predict issues with water pumps to promote greater access to clean water across Tanzania, an issue plaguing much of the country. 
+ 
+ - Our idea of success would be to achieve a classification accuracy of greater than 75% and to be able to give the Tanzanian Ministry of Water some key insights into which factors put a strain on pumps and how to best avoid them breaking down. We would like to place emphasis on correctly classifying pumps in need of repair as this is significantly cheaper than installing new pumps altogether. We will also identify regions where a large majority of the pumps are non-functional which the Ministry can then target as a problematic area as a whole. 
+
+
+Insights and Reccomendations:
+
+1. 
  
